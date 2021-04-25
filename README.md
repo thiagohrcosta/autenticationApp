@@ -1,5 +1,5 @@
 
-# AuthenticationAPp
+# Authentication-APP
 
 ![main banner](https://github.com/thiagohrcosta/authenticationApp/blob/master/public/img/loginAutentication.png?raw=true)
 
